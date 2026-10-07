@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Peripheral">
+    <Position X="4.75" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAACAAAgAAAUQA=</HashCode>
+      <FileName>Computer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Keyboard">
+    <Position X="4.75" Y="3.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAkBAAAAAIAAAAAAAIAAABAAAAgAAAAAAAAECAAAAAA=</HashCode>
+      <FileName>Computer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Processor">
+    <Position X="10" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIEBIAAAAAAAAABAAAAAABAAAAAIAAAAAAAEEEAEAAA=</HashCode>
+      <FileName>Computer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Computer">
+    <Position X="7.75" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAIAAAAAAIAAAAAAAAAAAAAABAAAIAAAAAAAAA=</HashCode>
+      <FileName>Computer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
